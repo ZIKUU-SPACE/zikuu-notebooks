@@ -24,6 +24,14 @@
 
     - **Jupyter Notebook 実行環境の準備**を参照
 
+## 教材一覧
+
+<!-- ZIKUU_NOTEBOOKS_LIST:BEGIN -->
+更新: 2026-01-12 16:16:26Z
+
+- **[地球観測編①：だいち2号（ALOS-2）](./earth-observation-001-daichi2/)**
+  - [earth_observation_intro.ipynb](https://colab.research.google.com/github/ZIKUU-SPACE/zikuu-notebooks/blob/main/earth-observation-001-daichi2/earth_observation_intro.ipynb)
+<!-- ZIKUU_NOTEBOOKS_LIST:END -->
 ---
 
 ## Jupyter Notebook 実行環境の準備

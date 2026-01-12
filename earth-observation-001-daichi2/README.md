@@ -20,6 +20,10 @@
 ## 進め方（Google Colab）
 
 1. このNotebookを開く
+
+    → [https://colab.research.google.com/github/ZIKUU-SPACE/zikuu-notebooks/blob/main/earth-observation-001-daichi2/earth_observation_intro.ipynb](https://colab.research.google.com/github/ZIKUU-SPACE/zikuu-notebooks/blob/main/earth-observation-001-daichi2/earth_observation_intro.ipynb
+)
+
 2. 上から順にセルを実行する
 3. 実行結果と説明を読み進める
 
